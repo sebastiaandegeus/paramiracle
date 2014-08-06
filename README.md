@@ -7,7 +7,6 @@ This WordPress plugin provides an API to set querystring params and load them ea
 
 [![Build Status](https://travis-ci.org/sebastiaandegeus/paramiracle.svg?branch=master)](https://travis-ci.org/sebastiaandegeus/paramiracle)
 
-[https://travis-ci.org/sebastiaandegeus/paramiracle](https://travis-ci.org/sebastiaandegeus/paramiracle)
 
 ## How it works
 
