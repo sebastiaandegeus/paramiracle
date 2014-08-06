@@ -1,7 +1,7 @@
 Paramiracle
 ============
 
-This WordPress plugin provides an API to set querystring params and load them when easyily.
+This WordPress plugin provides an API to set querystring params and load them easily.
 
 
 ## How it works

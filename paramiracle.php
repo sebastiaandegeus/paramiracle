@@ -2,7 +2,7 @@
 /*
 Plugin Name: Paramiracle
 Version: 0.0.1
-Description: Paramiracle provides a simple and safe API to set querystring params and read them out if set
+Description: Paramiracle provides a simple and safe API to set querystring params and load them easily.
 Author: Sebastiaan de Geus
 Author URI: https://github.com/sebastiaandegeus
 Plugin URI: https://github.com/sebastiaandegeus/paramiracle
