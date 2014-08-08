@@ -67,6 +67,7 @@ class Paramiracle {
   public static function register_param( $param ) {
     Paramiracle::$registered_params[] = $param;
   }
+
 }
 
 function the_param( $param ) {

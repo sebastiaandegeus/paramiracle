@@ -12,4 +12,18 @@ class ParamiracleTest extends WP_UnitTestCase {
     $this->assertGreaterThan( 0, has_filter( 'query_vars', array( 'Paramiracle', 'query_vars' ) ) );
   }
 
+  function test_register_param() {
+    Paramiracle::register_param( 'foo' );
+
+    $this->assertEquals( Paramiracle::$registered_params, array( 'foo' ) );
+  }
+
+  function test_attribute_instance() {
+    $this->assertClassHasAttribute( 'instance', 'Paramiracle' );
+  }
+
+  function test_attribute_register_params() {
+    $this->assertClassHasStaticAttribute( 'registered_params', 'Paramiracle' );
+  }
+
 }
