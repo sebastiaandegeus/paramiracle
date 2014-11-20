@@ -1,0 +1,14 @@
+{
+    "name": "sebastiaandegeus/paramiracle",
+    "description": "This WordPress plugin provides an API to set querystring params and load them easily.",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Sebastiaan de Geus",
+            "email": "sebastiaan@hoppinger.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
